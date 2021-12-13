@@ -1,3 +1,3 @@
 # SmartHome-VR
 
-A Smart Home environment prototype used to explore User Enactment technique in Virtual Reality.
+A Smart Home VE prototype used to explore the User Enactment technique in Virtual Reality. :house_with_garden:
