@@ -1,0 +1,644 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/igor/Desktop/ARIA project/SmartHome-VR/SH-VR
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51818
+Successfully changed project path to: /Users/igor/Desktop/ARIA project/SmartHome-VR/SH-VR
+/Users/igor/Desktop/ARIA project/SmartHome-VR/SH-VR
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 72.47 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 8.51 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/igor/Desktop/ARIA project/SmartHome-VR/SH-VR/Assets
+GfxDevice: creating device client; threaded=0
+2021-12-14 12:49:39.177 Unity[9090:576971] (null) preferred device: Apple M1 (high power)
+2021-12-14 12:49:39.177 Unity[9090:576971] Metal devices available: 1
+2021-12-14 12:49:39.177 Unity[9090:576971] 0: Apple M1 (high power)
+2021-12-14 12:49:39.177 Unity[9090:576971] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56090
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000869 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 59.63 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 7.05 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.016 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003060 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.30 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.063 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.20 seconds
+Refreshing native plugins compatible for Editor in 0.96 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.59 ms.
+Unloading 2438 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.9 MB.
+System memory in use after: 229.7 MB.
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 2849.
+Total: 3.252416 ms (FindLiveObjects: 0.314542 ms CreateObjectMapping: 0.048750 ms MarkObjects: 2.381250 ms  DeleteObjects: 0.507041 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab
+  artifactKey: Guid(ce816f2e6abb0504092c23ed9b970dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab using Guid(ce816f2e6abb0504092c23ed9b970dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4da544bc6886c1d94536237a70f11d6') in 0.302984 seconds
+  Import took 0.308048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.016826 seconds.
+  path: Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandLeft.prefab
+  artifactKey: Guid(e6ba3498ffa1e534b91a07264266e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandLeft.prefab using Guid(e6ba3498ffa1e534b91a07264266e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd062a00481016f2a51bc43abc9f6b296') in 0.412353 seconds
+  Import took 0.426445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_R.prefab
+  artifactKey: Guid(e201a24a09e942042b93390d0444d728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_R.prefab using Guid(e201a24a09e942042b93390d0444d728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f281d04a5732a0079461f63f7db0f2fc') in 0.023190 seconds
+  Import took 0.032888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandRight.prefab
+  artifactKey: Guid(ba1fa4a8c66106b4988c88fe4b8e8502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandRight.prefab using Guid(ba1fa4a8c66106b4988c88fe4b8e8502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7461ac648cf103656e1178ed0ef5ffc0') in 0.020950 seconds
+  Import took 0.024478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_L.prefab
+  artifactKey: Guid(c6a74181d4000004887343fb87b3c53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/OVRCustomHandPrefab_L.prefab using Guid(c6a74181d4000004887343fb87b3c53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '934c3d6d9c6477aad28162f7fb80d83c') in 0.012173 seconds
+  Import took 0.015409 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003041 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.43 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.065 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.25 ms.
+Unloading 2363 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 244.4 MB.
+System memory in use after: 244.2 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 2860.
+Total: 2.353666 ms (FindLiveObjects: 0.232625 ms CreateObjectMapping: 0.053792 ms MarkObjects: 1.729458 ms  DeleteObjects: 0.336291 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005370 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.47 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.098 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.24 ms.
+Unloading 2363 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 244.8 MB.
+System memory in use after: 244.6 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 2863.
+Total: 2.019083 ms (FindLiveObjects: 0.169291 ms CreateObjectMapping: 0.050250 ms MarkObjects: 1.449917 ms  DeleteObjects: 0.348833 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10890.787408 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Textures/GridBox_Default.png
+  artifactKey: Guid(6344bf96fbda94141a525046d088fb23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Textures/GridBox_Default.png using Guid(6344bf96fbda94141a525046d088fb23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d047d03561b9fd36435b1b6ba1eabc') in 0.712594 seconds
+  Import took 0.726341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.735267 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/Collider.mat
+  artifactKey: Guid(bbb235fff4f48426b863b36058ab66d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/Collider.mat using Guid(bbb235fff4f48426b863b36058ab66d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a42be3d3ff4523c0a6370be823cc43') in 0.256641 seconds
+  Import took 0.260626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/VertexPickerHDRP.mat
+  artifactKey: Guid(7d5c9fc287a2aa945a98203d41282923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/VertexPickerHDRP.mat using Guid(7d5c9fc287a2aa945a98203d41282923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb42c4803d323621ff198c7114ce5bc8') in 0.021956 seconds
+  Import took 0.024906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/Trigger.mat
+  artifactKey: Guid(a1e97cbf2538241b691aae8243b5fb10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/Trigger.mat using Guid(a1e97cbf2538241b691aae8243b5fb10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a864cbe837a8ae0be4bbed7b0fb49c8c') in 0.007214 seconds
+  Import took 0.009926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/VertexPicker.mat
+  artifactKey: Guid(30a8575e1d4cc4e01a88ffbf4f973d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/VertexPicker.mat using Guid(30a8575e1d4cc4e01a88ffbf4f973d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74419ede2ecdcd5f9eacb169ebf104f5') in 0.008683 seconds
+  Import took 0.011860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/ProBuilderDefault.mat
+  artifactKey: Guid(c22777d6e868e4f2fb421913386b154e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/ProBuilderDefault.mat using Guid(c22777d6e868e4f2fb421913386b154e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68dd98fd11319920ff295739c34f63f1') in 0.018528 seconds
+  Import took 0.021317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/EdgePickerHDRP.mat
+  artifactKey: Guid(980c24c5a501a9a429356d191ad356a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/EdgePickerHDRP.mat using Guid(980c24c5a501a9a429356d191ad356a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c175e8bfe75860b542cac7b9bba7728') in 0.011306 seconds
+  Import took 0.014174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/EdgePicker.mat
+  artifactKey: Guid(4ff996e3a0a5743a3987ab6231160665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/EdgePicker.mat using Guid(4ff996e3a0a5743a3987ab6231160665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd28d434726e9e97d045a08030b0203f') in 0.006782 seconds
+  Import took 0.009760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/NoDraw.mat
+  artifactKey: Guid(8cb4d6fee77fd4ee6895f08b240d625f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/NoDraw.mat using Guid(8cb4d6fee77fd4ee6895f08b240d625f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '535e3ab3f50e3318f2107a16560a9599') in 0.010208 seconds
+  Import took 0.013019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorLWRP.mat
+  artifactKey: Guid(077a003b1de1e4c35923be7a21b5d948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorLWRP.mat using Guid(077a003b1de1e4c35923be7a21b5d948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dd53f1a95c970b3c37f59e4c6214781') in 0.017635 seconds
+  Import took 0.020469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/InvisibleFace.mat
+  artifactKey: Guid(978bbcf5050244f1b95128c04103f628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/InvisibleFace.mat using Guid(978bbcf5050244f1b95128c04103f628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1d76733010469944841b9ed426a584') in 0.009607 seconds
+  Import took 0.012137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/FacePickerHDRP.mat
+  artifactKey: Guid(a53ef0dd76f2fe74eb5f43267d7c0195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/FacePickerHDRP.mat using Guid(a53ef0dd76f2fe74eb5f43267d7c0195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b3a98f947b9445050f05ee155da7b12') in 0.006070 seconds
+  Import took 0.008700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/UnlitVertexColor.mat
+  artifactKey: Guid(29966c3c0907b49b58c4e59342d020cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/UnlitVertexColor.mat using Guid(29966c3c0907b49b58c4e59342d020cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5debeb4a73f8b98f8fe5c2ffbdf46e') in 0.006016 seconds
+  Import took 0.008760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorHDRP.mat
+  artifactKey: Guid(c35693c079f3840f7938a4a323096e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/StandardVertexColorHDRP.mat using Guid(c35693c079f3840f7938a4a323096e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4898ecb15b18d657cff0ef6fc0ccc918') in 0.006254 seconds
+  Import took 0.008864 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004848 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 7.13 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.151 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.25 ms.
+Unloading 2363 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 254.5 MB.
+System memory in use after: 254.2 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 2903.
+Total: 3.986042 ms (FindLiveObjects: 0.324125 ms CreateObjectMapping: 0.052666 ms MarkObjects: 3.087125 ms  DeleteObjects: 0.521333 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9550.884921 seconds.
+  path: Assets/Oculus/Voice/Lib/PlatformCompatibility/Scripts/Runtime/AssistantCoreSDKRuntime.asmdef
+  artifactKey: Guid(a7c32ded21d3b9b42a71cdf39f2ed8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Voice/Lib/PlatformCompatibility/Scripts/Runtime/AssistantCoreSDKRuntime.asmdef using Guid(a7c32ded21d3b9b42a71cdf39f2ed8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef0496a4c1a174fe79b0990b1017c39') in 0.173729 seconds
+  Import took 0.188109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000780 seconds.
+  path: Assets/UnityAssetStore/HDRPFurniturePack/Curtain/Textures/Fabric_Kivet_Marimekko.png
+  artifactKey: Guid(d09480eb4c93c2f40aaad4273266d808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/HDRPFurniturePack/Curtain/Textures/Fabric_Kivet_Marimekko.png using Guid(d09480eb4c93c2f40aaad4273266d808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de0ee50ece99fb69270d1f3a33f180b') in 0.116672 seconds
+  Import took 0.119702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Textures/OCUI_24_Filled_2x.png
+  artifactKey: Guid(7f186a9ac091755489927d745be0185a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/SpatialAnchor/Textures/OCUI_24_Filled_2x.png using Guid(7f186a9ac091755489927d745be0185a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922e140b9a084e444c743c00588811df') in 0.751654 seconds
+  Import took 0.755970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Oculus/SampleFramework/Core/TouchControllers/Animations/l_controller_button02_anim.fbx
+  artifactKey: Guid(9ff261158dbb43d4ba84b6c3cae9a58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/TouchControllers/Animations/l_controller_button02_anim.fbx using Guid(9ff261158dbb43d4ba84b6c3cae9a58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7e421242e3cf9cadc315e11aad7a76f') in 0.115193 seconds
+  Import took 0.118608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/UnityAssetStore/Paintings/PaintingCollection1/Textures/Image/Image.png
+  artifactKey: Guid(608ff387f910f804b86ac08664b58495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/Paintings/PaintingCollection1/Textures/Image/Image.png using Guid(608ff387f910f804b86ac08664b58495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40b2e43850b8b2bf601f867f8b84149') in 0.007301 seconds
+  Import took 0.009912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/UnityAssetStore/Paintings/PaintingCollection1/Materials/Image.mat
+  artifactKey: Guid(c53785aa475bfa74b873e32e86ed605e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/Paintings/PaintingCollection1/Materials/Image.mat using Guid(c53785aa475bfa74b873e32e86ed605e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19b6b640301c250c876d568750b16dd') in 0.117563 seconds
+  Import took 0.120394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Oculus/VR/Textures/color_ramp_timer.tga
+  artifactKey: Guid(8929c8bc5148a624b8c9d6df0ee6f0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/color_ramp_timer.tga using Guid(8929c8bc5148a624b8c9d6df0ee6f0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977c6fb31418db2c657ee5bda6d09210') in 0.711287 seconds
+  Import took 0.713918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Oculus/VR/Materials/SelfieImage.mat
+  artifactKey: Guid(52ef173c94de14120b0d05f281d20054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Materials/SelfieImage.mat using Guid(52ef173c94de14120b0d05f281d20054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '087d4dfece0eb573d48e7593afa567bb') in 0.013612 seconds
+  Import took 0.016391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/UnityAssetStore/Paintings/PaintingCollection2/Textures/Image/Image.png
+  artifactKey: Guid(8e31ed180c6a35e46a80a9a97e189733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/Paintings/PaintingCollection2/Textures/Image/Image.png using Guid(8e31ed180c6a35e46a80a9a97e189733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3fcb7f29e320be2f9f269e98c8fda43') in 0.013174 seconds
+  Import took 0.016246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Oculus/VR/Textures/gaze_cursor_timer.tga
+  artifactKey: Guid(79a33e7a7166c6142ad50f46a9a23d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/gaze_cursor_timer.tga using Guid(79a33e7a7166c6142ad50f46a9a23d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b36d70490e1f0234df9cc38d7718f0d') in 0.006232 seconds
+  Import took 0.009237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/UnityAssetStore/Paintings/PaintingCollection1/Models/Painting.FBX
+  artifactKey: Guid(5bc4bd0497155b544aaf2ee9c5d8510e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/Paintings/PaintingCollection1/Models/Painting.FBX using Guid(5bc4bd0497155b544aaf2ee9c5d8510e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab7d81c1c184033529ed285c81f9540d') in 0.199963 seconds
+  Import took 0.203274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/UnityAssetStore/Paintings/PaintingCollection2/Models/Painting.FBX
+  artifactKey: Guid(3e1b8433c0a04824fac62aa298d9a3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/Paintings/PaintingCollection2/Models/Painting.FBX using Guid(3e1b8433c0a04824fac62aa298d9a3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47c22a3145a0cf59739ebda1d7e6872') in 0.021921 seconds
+  Import took 0.024942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Oculus/VR/Textures/SelfieImage.renderTexture
+  artifactKey: Guid(57e76b1057d5b458badbc9979747256e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/SelfieImage.renderTexture using Guid(57e76b1057d5b458badbc9979747256e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7815cc3f29aca7736e99858340095c49') in 0.083687 seconds
+  Import took 0.086791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Oculus/VR/Prefabs/Cursor_Timer.prefab
+  artifactKey: Guid(5a7682c244a150b49965c007720bdbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Prefabs/Cursor_Timer.prefab using Guid(5a7682c244a150b49965c007720bdbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35ad1490e88f080ecce316ca30338a76') in 0.021926 seconds
+  Import took 0.024474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Oculus/SampleFramework/Core/Locomotion/Models/DestinationIndicatorSimple.fbx
+  artifactKey: Guid(823dc0eb5b064e14da00166d21f93fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/Locomotion/Models/DestinationIndicatorSimple.fbx using Guid(823dc0eb5b064e14da00166d21f93fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cf3e5e7671f4ed67cf9cd38c068ef27') in 0.021741 seconds
+  Import took 0.024537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Oculus/VR/Materials/cursor_timer_material.mat
+  artifactKey: Guid(9531aa878fd5c4749b288b72024e8d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Materials/cursor_timer_material.mat using Guid(9531aa878fd5c4749b288b72024e8d2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6519b50455d2346a1de89e34726034b3') in 0.006258 seconds
+  Import took 0.008666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Oculus/SampleFramework/Core/TouchControllers/Animations/l_controller_button01_anim.fbx
+  artifactKey: Guid(5656ce9e2c4daca43b3b6dde03763e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Core/TouchControllers/Animations/l_controller_button01_anim.fbx using Guid(5656ce9e2c4daca43b3b6dde03763e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69a6346a81fae91c5ccadab57d1db81e') in 0.004287 seconds
+  Import took 0.006882 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006697 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.49 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 4.43 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.846 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.26 ms.
+Unloading 2363 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 277.3 MB.
+System memory in use after: 277.1 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2916.
+Total: 2.351209 ms (FindLiveObjects: 0.206500 ms CreateObjectMapping: 0.060167 ms MarkObjects: 1.663791 ms  DeleteObjects: 0.419791 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19667.409315 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin
+  artifactKey: Guid(862ecc4a375fb4a1c83b251d54c8277e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin using Guid(862ecc4a375fb4a1c83b251d54c8277e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d87c8a75a3ce815d78cabc49d7e8b6') in 0.040290 seconds
+  Import took 0.060038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.882451 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations
+  artifactKey: Guid(1bee12285e24744ad9a8a059b0912d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations using Guid(1bee12285e24744ad9a8a059b0912d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa04e3dfd97f014b30d4061112a5181') in 0.001616 seconds
+  Import took 0.007027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066263 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/shower.3ds
+  artifactKey: Guid(e956cfcdf76834f13b3159fb71d08b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/shower.3ds using Guid(e956cfcdf76834f13b3159fb71d08b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49a71f1f50bfce179f16f882032c0e51') in 0.514224 seconds
+  Import took 0.518209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.039698 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench
+  artifactKey: Guid(23dafcd6998404610a67c7b12fc1e05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench using Guid(23dafcd6998404610a67c7b12fc1e05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66c0aee5c690f562aab038d4897e90c3') in 0.001780 seconds
+  Import took 0.007388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.824512 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench01_Close.anim
+  artifactKey: Guid(5df090832dd034ea785e8c55474b7b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench01_Close.anim using Guid(5df090832dd034ea785e8c55474b7b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11a4b475c0beb15095bb0aa3f692ab14') in 0.078097 seconds
+  Import took 0.082110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.307944 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench01_Open.anim
+  artifactKey: Guid(5499c74c3f5974a65a69d4813eaa62c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench01_Open.anim using Guid(5499c74c3f5974a65a69d4813eaa62c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb8e78e9f928382374423996e000939f') in 0.002392 seconds
+  Import took 0.006134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.337758 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench02_Close.anim
+  artifactKey: Guid(7c2fed112c3a34a1285c34ffd52251df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench02_Close.anim using Guid(7c2fed112c3a34a1285c34ffd52251df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b663cd67c6a61d439854dc01952f9600') in 0.003390 seconds
+  Import took 0.009117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.197766 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench02_Open.anim
+  artifactKey: Guid(f441f8667850d4da1a88ad71609237ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench02_Open.anim using Guid(f441f8667850d4da1a88ad71609237ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab20eb26b1ac63b56ce1462896d0393') in 0.002201 seconds
+  Import took 0.006417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.299912 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench03_Close.anim
+  artifactKey: Guid(e1070c84646324e51a13b12db804d4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench03_Close.anim using Guid(e1070c84646324e51a13b12db804d4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e8c07f933ed136a8484f4c375f3b545') in 0.002831 seconds
+  Import took 0.008811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.150570 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench03_Open.anim
+  artifactKey: Guid(6ecab68dcd05943b39c776318b813b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench03_Open.anim using Guid(6ecab68dcd05943b39c776318b813b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdbfef1dcf334beea4f320d1f5fb2870') in 0.001771 seconds
+  Import took 0.005543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.183467 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench04_Close.anim
+  artifactKey: Guid(4c0a0c1aa46a2462485220a9f0f2c5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench04_Close.anim using Guid(4c0a0c1aa46a2462485220a9f0f2c5ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20969eb570523f7b828e4686832780c7') in 0.002722 seconds
+  Import took 0.007189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.193192 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench04_Open.anim
+  artifactKey: Guid(c9f953d3695114780a02859695f11183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench04_Open.anim using Guid(c9f953d3695114780a02859695f11183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41fad178d4d5e2af3b478563500071f') in 0.002486 seconds
+  Import took 0.007264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.159663 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench05_Close.anim
+  artifactKey: Guid(b3b737a4463b14290b6adc9fad09b69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench05_Close.anim using Guid(b3b737a4463b14290b6adc9fad09b69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10be55a50b4721940528a4e4f7f2f5a1') in 0.001891 seconds
+  Import took 0.006391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160838 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench05_Open.anim
+  artifactKey: Guid(3d80b5c509a30461382fd7466db1f4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench05_Open.anim using Guid(3d80b5c509a30461382fd7466db1f4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a010b029d5212fff7971ba6b3c7573d5') in 0.001994 seconds
+  Import took 0.006232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.192807 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench06_Close.anim
+  artifactKey: Guid(8faf24f5ee2a348cd9ea17f3f6ee8e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench06_Close.anim using Guid(8faf24f5ee2a348cd9ea17f3f6ee8e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd316fbf9d36b76dd2c0194286e0d13cb') in 0.002737 seconds
+  Import took 0.007432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.158929 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench06_Open.anim
+  artifactKey: Guid(8aad2d02ed2e6438ab490da9bce0b7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench06_Open.anim using Guid(8aad2d02ed2e6438ab490da9bce0b7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aa4ca5cad521bb0f389f344aebcd12e') in 0.001947 seconds
+  Import took 0.005661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.194601 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench07_Close.anim
+  artifactKey: Guid(8a29154abde714d7e90566a302fa43e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench07_Close.anim using Guid(8a29154abde714d7e90566a302fa43e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bed101bbfa5f299ab5fbcb1899e6497') in 0.002728 seconds
+  Import took 0.006956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.321941 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench07_Open.anim
+  artifactKey: Guid(52fa33593ce864a459e6071c8e921f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench07_Open.anim using Guid(52fa33593ce864a459e6071c8e921f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783f85cdc57003985aebd87508e965ad') in 0.002716 seconds
+  Import took 0.008231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.286420 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench08_Close.anim
+  artifactKey: Guid(d724f8bdab87d455dbf0fd89ab4efd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench08_Close.anim using Guid(d724f8bdab87d455dbf0fd89ab4efd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697e7f9d8783d7019838d35773650525') in 0.003328 seconds
+  Import took 0.008728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.170179 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench08_Open.anim
+  artifactKey: Guid(2f38add399e294b5a81d74d8302d1ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench08_Open.anim using Guid(2f38add399e294b5a81d74d8302d1ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b2ac71341ca9809fcff37fc5ce44c2') in 0.002581 seconds
+  Import took 0.006510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.175136 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench09_Close.anim
+  artifactKey: Guid(46472977e2de146de840f00489a1d1af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench09_Close.anim using Guid(46472977e2de146de840f00489a1d1af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aa6d5daade0c718af025c2fbb9ea24b') in 0.002502 seconds
+  Import took 0.007355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.210950 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench09_Open.anim
+  artifactKey: Guid(e338557d5df484ec99e88d725faccf56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBench09_Open.anim using Guid(e338557d5df484ec99e88d725faccf56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '592bedc989c32d259b810ca2f1bcad0b') in 0.002103 seconds
+  Import took 0.006854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.250596 seconds.
+  path: Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBenchAnimator.controller
+  artifactKey: Guid(bf8732cce940a439ca21e3ac1966f4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityAssetStore/FurnishedCabin/Animations/KitchenBench/KitchenBenchAnimator.controller using Guid(bf8732cce940a439ca21e3ac1966f4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec095e7395530e590e14c3005244271a') in 0.083122 seconds
+  Import took 0.088013 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005331 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 1.07 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.380 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.27 ms.
+Unloading 2363 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 290.4 MB.
+System memory in use after: 290.2 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 2920.
+Total: 2.128708 ms (FindLiveObjects: 0.165041 ms CreateObjectMapping: 0.048500 ms MarkObjects: 1.530917 ms  DeleteObjects: 0.383209 ms)
+

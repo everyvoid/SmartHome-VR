@@ -1,0 +1,187 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/igor/Desktop/ARIA project/SmartHome-VR/SH-VR
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51628
+Successfully changed project path to: /Users/igor/Desktop/ARIA project/SmartHome-VR/SH-VR
+/Users/igor/Desktop/ARIA project/SmartHome-VR/SH-VR
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/igor/Desktop/ARIA project/SmartHome-VR/SH-VR/Assets
+GfxDevice: creating device client; threaded=0
+2021-12-14 11:51:23.108 Unity[8228:552221] (null) preferred device: Apple M1 (high power)
+2021-12-14 11:51:23.108 Unity[8228:552221] Metal devices available: 1
+2021-12-14 11:51:23.108 Unity[8228:552221] 0: Apple M1 (high power)
+2021-12-14 11:51:23.108 Unity[8228:552221] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56228
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001097 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 34.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.718 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.031 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.10f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1749 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.4 MB.
+System memory in use after: 186.4 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2182.
+Total: 2.471042 ms (FindLiveObjects: 0.307166 ms CreateObjectMapping: 0.032333 ms MarkObjects: 2.010542 ms  DeleteObjects: 0.120250 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Textures/Plan.jpg
+  artifactKey: Guid(8c3b79601fe9e49379cf44aa26648114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Plan.jpg using Guid(8c3b79601fe9e49379cf44aa26648114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1cbf5d83638405caec3b9f13c31f79f') in 0.604782 seconds
+  Import took 0.608222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Textures/Parquet.jpg
+  artifactKey: Guid(6690bb92811b448a28dc962912bd02ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Parquet.jpg using Guid(6690bb92811b448a28dc962912bd02ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cf95a9d1cbe43f9c863fa7a9ea5e7fe') in 0.016974 seconds
+  Import took 0.019139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Textures/Tiles.jpg
+  artifactKey: Guid(e51bfc6c85ae84a90873d1ec4ba10adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Tiles.jpg using Guid(e51bfc6c85ae84a90873d1ec4ba10adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a2aad5906497e6f003083a885152ab1') in 0.010135 seconds
+  Import took 0.012560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Textures/Parquet2.jpg
+  artifactKey: Guid(2d9171fa1b8854dbbaca8ba51df4970d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Parquet2.jpg using Guid(2d9171fa1b8854dbbaca8ba51df4970d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8276092a9ffd5b971d5393ab73575dbe') in 0.018379 seconds
+  Import took 0.020740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.689806 seconds.
+  path: Assets/Materials/Parquet.mat
+  artifactKey: Guid(e5025107f845f4423b2cc33f405c3af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Parquet.mat using Guid(e5025107f845f4423b2cc33f405c3af5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8689eaabb2cef4cb5b76e13fcbbc9bb6') in 0.367721 seconds
+  Import took 0.371476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Materials/Parquet2.mat
+  artifactKey: Guid(b393224bd09ab4232a7974553caf4eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Parquet2.mat using Guid(b393224bd09ab4232a7974553caf4eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b0449cc60e6ffd27c377f7d2519ae3') in 0.012735 seconds
+  Import took 0.015023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Materials/Tiles.mat
+  artifactKey: Guid(96b5dea9455384fa2881be3c0c925053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Tiles.mat using Guid(96b5dea9455384fa2881be3c0c925053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3365a5e4db01faeee4b043859d2253') in 0.008923 seconds
+  Import took 0.011587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Materials/Plan.mat
+  artifactKey: Guid(a01460d7734624c8ab728cece1833e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Plan.mat using Guid(a01460d7734624c8ab728cece1833e72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed20184b499ae0874f82aa0653dad03') in 0.209723 seconds
+  Import took 0.211962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Materials/White.mat
+  artifactKey: Guid(c903271ed11484ec8af75538a9cab2fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/White.mat using Guid(c903271ed11484ec8af75538a9cab2fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5b28bb3665d108bb633a8daa22d4edc') in 0.007359 seconds
+  Import took 0.009517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Materials/Wall.mat
+  artifactKey: Guid(d367c9ebe27fe4f9eb892e3f191920e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Wall.mat using Guid(d367c9ebe27fe4f9eb892e3f191920e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e38f15875d67faa695d5a1d552dd6fc5') in 0.011343 seconds
+  Import took 0.013981 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005301 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.069 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1724 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 197.0 MB.
+System memory in use after: 197.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2228.
+Total: 1.596917 ms (FindLiveObjects: 0.116750 ms CreateObjectMapping: 0.032958 ms MarkObjects: 1.343917 ms  DeleteObjects: 0.102416 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004835 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 28.15 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.390 seconds
+Platform modules already initialized, skipping
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.26 ms.
+Unloading 2406 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 236.0 MB.
+System memory in use after: 227.7 MB.
+
+Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 2844.
+Total: 7.554708 ms (FindLiveObjects: 0.188584 ms CreateObjectMapping: 0.048667 ms MarkObjects: 2.704083 ms  DeleteObjects: 4.612416 ms)
+
